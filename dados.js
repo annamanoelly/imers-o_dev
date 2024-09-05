@@ -1,0 +1,1 @@
+let dados = ["Sarah","Suh","Thais","Clarisse","Maria","Carol","Anna"];
